@@ -157,7 +157,7 @@ class EstimateController extends AppController {
             goto set;
         }
         
-        	
+        debug($data['estimate_id']);die;
         
         set:
         $this -> set(compact('res'));
