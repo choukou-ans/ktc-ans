@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/View
+END
+CsvEncodeView.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/View/CsvEncodeView.php
+END
+XmlEncodeView.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/View/XmlEncodeView.php
+END
+JsonEncodeView.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/View/JsonEncodeView.php
+END

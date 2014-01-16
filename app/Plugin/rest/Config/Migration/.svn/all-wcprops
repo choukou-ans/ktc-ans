@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/Config/Migration
+END
+map.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/Config/Migration/map.php
+END
+001_initial_migration.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ans/pmi-ans/!svn/ver/2/trunk/server/app/Plugin/rest/Config/Migration/001_initial_migration.php
+END
